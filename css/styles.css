@@ -154,6 +154,8 @@ img {
 
 /* HERO */
 
+/* section-main */
+
 .section-main {
   background: #2e2f42;
   padding: 188px 0;
@@ -204,15 +206,36 @@ img {
   background: #404bbf;
 }
 
+/* section-main */
+
+.advantages {
+  padding: 120px 0;
+}
+
+.container-advantages {
+  flex-direction: column;
+  justify-content: center;
+}
+
+.container-advantages h2 {
+  text-align: center;
+  /* padding-bottom: 50px; */
+}
+
+.container-advantages-list {
+  display: flex;
+  gap: 24px;
+}
+
 .advantages h3 {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 20px;
-
   /* line-height: 24px; */
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
+  margin: 0 auto;
 }
 
 .advantages p {
@@ -224,6 +247,10 @@ img {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
+}
+
+.qweq {
+  max-width: 264px;
 }
 
 .our-team {
