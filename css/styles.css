@@ -58,7 +58,8 @@ img {
 
 .header-nav {
   display: flex;
-  gap: 76px;
+  /* gap: 76px; */
+  margin-right: 76px;
   align-items: center;
 }
 
