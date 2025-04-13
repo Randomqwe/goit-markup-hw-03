@@ -398,12 +398,12 @@ img {
 
 .logo-part-f {
   color: #f4f4fd;
-  display: block;
+  /* display: block; */
 }
 
 .logo-main-footer {
   margin-bottom: 16px;
-  /* display: block; */
+  display: inline-block;
 }
 
 .footer-main p {
