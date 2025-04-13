@@ -252,6 +252,10 @@ img {
   flex-basis: calc((100%-24 * 3) / 4);
 }
 
+.advantages-title {
+  display: none;
+}
+
 .qweq {
   /* max-width: 264px; */
 }
