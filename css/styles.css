@@ -281,6 +281,7 @@ img {
 
 .our-team {
   background: #f4f4fd;
+  padding: 120px 0;
 }
 
 .our-team-list-main {
@@ -289,9 +290,9 @@ img {
   text-align: center;
 }
 
-.container-our-team {
+/* .container-our-team {
   padding: 120px 0;
-}
+} */
 
 .our-team h2 {
   font-family: "Roboto", sans-serif;
@@ -312,7 +313,7 @@ img {
 }
 
 .our-team-title {
-  padding-bottom: 72px;
+  margin-bottom: 72px;
   /* padding-top: 120px; */
 }
 
