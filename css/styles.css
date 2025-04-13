@@ -327,7 +327,7 @@ img {
   letter-spacing: 0.02em;
   /* text-align: center; */
   color: #2e2f42;
-  margin-top: 32px;
+  /* margin-top: 32px; */
   margin-bottom: 8px;
 }
 
@@ -345,7 +345,7 @@ img {
   letter-spacing: 0.02em;
   /* text-align: center; */
   color: #434455;
-  padding-bottom: 32px;
+  /* padding-bottom: 32px; */
 }
 
 .our-portfolio h2 {
@@ -393,10 +393,17 @@ img {
 
 .footer-main {
   background: #2e2f42;
+  padding: 100px 0;
 }
 
 .logo-part-f {
   color: #f4f4fd;
+  /* display: block; */
+}
+
+.logo-main-footer {
+  margin-bottom: 16px;
+  display: block;
 }
 
 .footer-main p {
@@ -408,4 +415,5 @@ img {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #f4f4fd;
+  width: 264px;
 }
