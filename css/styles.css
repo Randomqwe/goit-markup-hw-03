@@ -248,9 +248,16 @@ img {
   letter-spacing: 0.02em;
   color: #434455;
 }
+.container-advantages-li {
+  flex-basis: calc((100%-24 * 3) / 4);
+}
 
 .qweq {
-  max-width: 264px;
+  /* max-width: 264px; */
+}
+
+.qwe {
+  margin-bottom: 8px;
 }
 
 .our-team {
