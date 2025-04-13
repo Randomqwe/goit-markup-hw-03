@@ -208,6 +208,8 @@ img {
 
 /* section-main */
 
+/* section-advantages */
+
 .advantages {
   padding: 120px 0;
 }
@@ -273,37 +275,58 @@ img {
   margin-bottom: 8px;
 }
 
+/* section-advantages */
+
+/* section-ourteam */
+
 .our-team {
   background: #f4f4fd;
+}
+
+.our-team-list-main {
+  display: flex;
+  gap: 24px;
+  text-align: center;
+}
+
+.container-our-team {
+  padding: 120px 0;
 }
 
 .our-team h2 {
   font-family: "Roboto", sans-serif;
   font-weight: 700;
   font-size: 36px;
-
   /* line-height: 40px; */
   line-height: 1.11;
   letter-spacing: 0.02em;
   text-align: center;
   text-transform: capitalize;
   color: #2e2f42;
+  /* padding-top: 120px; */
 }
 
 .our-team-list {
   background-color: #ffffff;
+  flex-basis: calc((100%-72px) / 4);
+}
+
+.our-team-title {
+  padding-bottom: 72px;
+  /* padding-top: 120px; */
 }
 
 .our-team h3 {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 20px;
-
   /* line-height: 24px; */
   line-height: 1.2;
   letter-spacing: 0.02em;
   /* text-align: center; */
   color: #2e2f42;
+  margin-top: 32px;
+  margin-bottom: 8px;
 }
 
 .our-team p {
@@ -316,6 +339,7 @@ img {
   letter-spacing: 0.02em;
   /* text-align: center; */
   color: #434455;
+  padding-bottom: 32px;
 }
 
 .our-portfolio h2 {
