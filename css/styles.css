@@ -235,7 +235,7 @@ img {
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
-  margin: 0 auto;
+  /* margin: 0 auto; */
 }
 
 .advantages p {
@@ -249,7 +249,7 @@ img {
   color: #434455;
 }
 .container-advantages-li {
-  flex-basis: calc((100%-24 * 3) / 4);
+  flex-basis: calc((100%-72px) / 4);
 }
 
 .advantages-title {
