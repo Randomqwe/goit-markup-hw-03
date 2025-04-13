@@ -249,7 +249,7 @@ img {
   color: #434455;
 }
 .container-advantages-li {
-  flex-basis: calc((100%-72px) / 4);
+  /* flex-basis: calc((100%-72px) / 4); */
 }
 
 .advantages-title {
@@ -257,7 +257,7 @@ img {
 }
 
 .qweq {
-  /* max-width: 264px; */
+  max-width: 264px;
 }
 
 .qwe {
