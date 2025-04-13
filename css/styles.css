@@ -331,6 +331,10 @@ img {
   margin-bottom: 8px;
 }
 
+.hzzachem {
+  padding: 32px 0;
+}
+
 .our-team p {
   font-family: "Roboto", sans-serif;
   font-weight: 400;
@@ -357,6 +361,10 @@ img {
   color: #2e2f42;
 }
 
+.our-team-hhh {
+  margin-bottom: 8px;
+}
+
 .our-portfolio h3 {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
@@ -377,6 +385,10 @@ img {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
+}
+
+.our-team-p {
+  text-align: center;
 }
 
 .footer-main {
